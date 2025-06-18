@@ -6,7 +6,7 @@ type ViewSourceProps = {
 
 const ViewSource = ({ pathname }: ViewSourceProps) => (
   <svg
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://tomaslonnblad.github.io/file.svg"
     width="80"
     height="80"
     viewBox="0 0 250 250"
