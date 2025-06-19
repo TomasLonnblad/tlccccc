@@ -23,6 +23,8 @@ const BackgroundPage = () => (
       Image Component
       <br />
       as a Background
+      <br />
+      Main thing; classname styles viewSource pathname page.tsx
     </p>
   </div>
 );
