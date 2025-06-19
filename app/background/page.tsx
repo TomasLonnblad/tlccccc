@@ -24,7 +24,7 @@ const BackgroundPage = () => (
       <br />
       as a Background
       <br />
-      Main thing; classname styles viewSource pathname page.tsx
+      Main thing; classname styles, viewSource pathname page.tsx
     </p>
   </div>
 );
